@@ -1,0 +1,21 @@
+RubyjsOnRails
+=============
+
+This plugin makes it easy to write ruby code that runs in your browser by using 
+the rubyjs ruby to javascript compiler.  To use it, you'll need rubyjs 0.8.1 which
+you can (currently) only obtain here: 
+
+http://www.christophernelsonconsulting.com-a.googlepages.com/rubyjs-0.8.1.gem
+
+As soon as github gets gem building working again (or my changes make it to 
+rubyforge you'll be able to get it using the normal:
+
+gem install rubyjs
+
+Example
+=======
+
+Example goes here.
+
+
+Copyright (c) 2008 [name of plugin creator], released under the MIT license
