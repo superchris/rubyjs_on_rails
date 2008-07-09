@@ -15,7 +15,4 @@ gem install rubyjs
 Example
 =======
 
-Example goes here.
-
-
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Coming soon.
